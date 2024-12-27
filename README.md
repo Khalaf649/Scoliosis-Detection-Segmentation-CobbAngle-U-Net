@@ -2,7 +2,7 @@
 
 ## Abstract
 
-ARC is a cutting-edge project focused on improving scoliosis diagnosis through advanced image processing and machine learning techniques. By leveraging Partial Differential Equations (PDEs) for image pre-processing and a Convolutional Neural Network (CNN) for classification, this project enhances the accuracy of spinal X-ray analysis. Additionally, U-Net is utilized for precise line segmentation to assist in Cobb angle measurement, a critical metric for assessing scoliosis severity.
+ARC is a cutting-edge project focused on improving scoliosis diagnosis through advanced image processing and machine learning techniques.  Scoliosis, a spinal curvature and vertebral rotation, requires accurate and early detection for effective treatment. By leveraging Partial Differential Equations (PDEs) for image pre-processing and a Convolutional Neural Network (CNN) for classification, this project enhances the accuracy of spinal X-ray analysis. Additionally, U-Net is utilized for precise line segmentation to assist in Cobb angle measurement, a critical metric for assessing scoliosis severity.
 
 ![Alt text](Frontend/images/mainpage.png)
 
